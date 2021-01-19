@@ -1,7 +1,8 @@
 body {
+  position: relative;
+  overflow-x: hidden;
   background: whitesmoke;
   font-family: Calluna, Arial, sans-serif;
-  min-height: 500px;
 }
 
 a.button {
@@ -25,7 +26,7 @@ a.button:hover {
 }
 
 .carousel-item {
-  height: 550px;
+  height: 500px;
 }
 
 .carousel-image-1 {
